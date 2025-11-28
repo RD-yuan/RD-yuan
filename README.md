@@ -1,16 +1,11 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**RD-yuan/RD-yuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I’m a Computer Science student at BUPT.  
+💻 I’m currently working on several full-stack and data-driven projects including **HPQAQ**, **DSL-Agent**, and **Campus Navigation System**.  
+🌱 I’m learning advanced Python development, C++ system programming, algorithms, and Git/GitHub DevOps workflows.  
+👯 I’m looking to collaborate on **backend development**, **data analysis**, **LLM-based tools**, and **CS education projects**.  
+🧠 I’m interested in distributed systems, networking, and AI-assisted automation.  
+🎷 Fun fact: I play the alto/soprano curved saxophone and enjoy jazz improvisation.  
+💬 Ask me about Python, Flask, Vue3, Git workflows, C++, network labs, or saxophone gear 🎷  
+📫 How to reach me: *zhaoyuan263@gmail.com*  
+😄 Pronouns: he/him  
